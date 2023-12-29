@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Erick Chaves Barreto
+- 👀 I’m interested in actually escaping the tutorial hell and apply the things i learn ☠️
+- 🌱 I’m currently learning HTML, CSS and JS (I've chosen the Front-End pathing)
+- 💞️ I’m not looking to colaborate for now, don't want to mess up other's project's :)
+- 📫 How to reach me: don't reach me.
